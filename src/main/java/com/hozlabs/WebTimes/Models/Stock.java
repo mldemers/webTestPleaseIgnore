@@ -9,5 +9,5 @@ public class Stock {
 
     String symbol;
 
-    StockPriceHistroy[] histroy;
+//    StockPriceHistroy[] histroy;
 }
